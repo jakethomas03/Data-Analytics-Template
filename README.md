@@ -7,6 +7,8 @@ projects.
 
 ---
 
+data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIg…zMy0uMzMtLjIzLS40MS0uMDgtLjQxLjA4eiIvPjwvc3ZnPg==
+
 ### To do list
 
 [ ] task 1  
