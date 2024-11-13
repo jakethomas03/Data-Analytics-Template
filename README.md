@@ -11,7 +11,7 @@ November 11, 2024
 ## Description
 
 This is repository will act as a template for reference when creating new data analytics
-projects.
+projects that use Python notebooks. 
 
 ---
 
