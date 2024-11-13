@@ -1,11 +1,23 @@
 # Data-Analytics-Template
 
+November 11, 2024
+
+---
+
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-November 11, 2024
+---
+
+## Description
 
 This is repository will act as a template for reference when creating new data analytics
 projects.
+
+---
+
+## Instruction to run the program/application
+
+This is how you run the program.
 
 ---
 
