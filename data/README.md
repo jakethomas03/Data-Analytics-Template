@@ -2,6 +2,8 @@
 
 ## Folders
 
+Source data: example.url
+
 ### raw
 
 Original, unmodified data after downloading, scraping etc.
