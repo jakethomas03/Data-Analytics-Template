@@ -7,9 +7,7 @@ projects.
 
 ---
 
-data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIg…zMy0uMzMtLjIzLS40MS0uMDgtLjQxLjA4eiIvPjwvc3ZnPg==
-
-### To do list
+## To do list
 
 [ ] task 1  
 [x] task 2  
@@ -17,7 +15,7 @@ data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIg…zMy0uMzMtLjIzLS40MS0uMDgtLj
 
 ---
 
-# Change log
+## Change log
 
 For large changes in project, scraping, added raw data, reran cleaning and analysis
 
